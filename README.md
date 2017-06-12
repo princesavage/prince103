@@ -7,7 +7,7 @@ hi
 <Li>
 HELLO
 </Li>
-</Ul>
 <Li>
-MY NAME IS SAVAGE
+hi my friends
 </Li>
+</Ul>
