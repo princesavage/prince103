@@ -3,5 +3,5 @@ Partners with people
 <Ul>
 <Li>
 hi
-</li>
+</Li>
 </Ul>
